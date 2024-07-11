@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DefineHub</string>
+    <string name="can_t_get_word_result">Can\'t get word result</string>
 </resources>
